@@ -1,4 +1,3 @@
-markdown
 # Portfolio Single Page
 
 This is a single page portfolio template built using React. It provides a simple and elegant layout to showcase your projects, skills, and contact information.
