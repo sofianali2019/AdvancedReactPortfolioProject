@@ -25,7 +25,7 @@ This is a single page portfolio template built using React. It provides a simple
 3. Install the dependencies by running the following command:
 
    
-bash
+```bash
    npm install
   
 
@@ -39,8 +39,8 @@ bash
    - Modify the CSS styles in the `App.css` file to match your design preferences.
 3. Run the application by executing the following command:
 
-   `
-bash
+   
+```bash
    npm start
   
 
