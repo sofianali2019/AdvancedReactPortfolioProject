@@ -27,6 +27,7 @@ This is a single page portfolio template built using React. It provides a simple
    
 ```bash
    npm install
+```
   
 
 
@@ -42,6 +43,7 @@ This is a single page portfolio template built using React. It provides a simple
    
 ```bash
    npm start
+```
   
 
 
